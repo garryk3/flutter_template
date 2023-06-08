@@ -1,5 +1,5 @@
 # Template
-[![Android_APK](https://github.com/garryk3/flutter_template/actions/workflows/android-simple.yml/badge.svg?branch=develop)](https://github.com/garryk3/flutter_template/actions/workflows/android-simple.yml)
+[![Android_APK from develop](https://github.com/garryk3/flutter_template/actions/workflows/android-simple.yml/badge.svg?branch=develop)](https://github.com/garryk3/flutter_template/actions/workflows/android-simple.yml)
 
 A new Flutter project template
 
